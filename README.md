@@ -3,6 +3,8 @@
 #### 介绍
 基于springboot美食推荐商城的设计与实现，后端框架使用Springboot+mybatis，前端框架使用Vue+hrml，数据库使用mysql，系统分为用户端前台系统和管理员端管理系统。
 
+源码获取：[Springboot美食推荐商城系统源码](https://gitee.com/ss-i-gg/Springboot-Food-Recommendation-Mall/blob/master/Springboot%E7%BE%8E%E9%A3%9F%E5%95%86%E5%9F%8E%E6%BA%90%E7%A0%81.zip)
+
 ## 基于springboot的网上服装商城推荐系统的设计与实现
 **开发语言：Java
 框架：springboot
@@ -37,7 +39,7 @@ JDK版本：JDK1.8
 ![输入图片说明](11%E5%90%8E%E5%8F%B0%E7%AE%A1%E7%90%86%E5%91%98%E7%99%BB%E5%BD%95%E5%88%86%E7%B1%BB.png)
 ![输入图片说明](12%E7%AE%A1%E7%90%86%E5%91%98%E7%99%BB%E5%BD%95.png)
 
-源码获取：
+源码获取：[Springboot美食推荐商城系统源码](https://gitee.com/ss-i-gg/Springboot-Food-Recommendation-Mall/blob/master/Springboot%E7%BE%8E%E9%A3%9F%E5%95%86%E5%9F%8E%E6%BA%90%E7%A0%81.zip)
 
 
 
