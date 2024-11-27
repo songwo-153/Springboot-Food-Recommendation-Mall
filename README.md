@@ -3,7 +3,7 @@
 #### 介绍
 基于springboot美食推荐商城的设计与实现，后端框架使用Springboot+mybatis，前端框架使用Vue+hrml，数据库使用mysql，系统分为用户端前台系统和管理员端管理系统。
 
-源码获取：[Springboot美食推荐商城系统源码](https://gitee.com/ss-i-gg/Springboot-Food-Recommendation-Mall/blob/master/Springboot%E7%BE%8E%E9%A3%9F%E5%95%86%E5%9F%8E%E6%BA%90%E7%A0%81.zip)
+源码获取：[Springboot美食推荐商城系统源码]()
 
 ## 基于springboot的网上服装商城推荐系统的设计与实现
 **开发语言：Java
@@ -20,30 +20,31 @@ JDK版本：JDK1.8
 数据库使用mysql**
 
 **数据库表设计**
-![输入图片说明](14%E6%95%B0%E6%8D%AE%E5%BA%93.png)
+![14数据库](https://github.com/user-attachments/assets/61f8d6b4-bb59-4d30-a7f3-c6b40edb3156)
+
 
 **项目开发结构**
-![输入图片说明](13%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%84.png)
+![13项目结构](https://github.com/user-attachments/assets/508865d1-2559-4360-8ac8-949d760a8781)
+
 
 **系统功能展示**
 前端用户系统
-
-![输入图片说明](01%E9%A6%96%E9%A1%B5.png)
-![输入图片说明](02%E4%BF%A1%E6%81%AF%E5%85%AC%E5%91%8A.png)
-![输入图片说明](08%E7%BE%8E%E9%A3%9F%E8%AF%A6%E6%83%85.png)
-![输入图片说明](03%E7%95%99%E8%A8%80%E6%9D%BF.png)
-![输入图片说明](04%E7%BE%8E%E9%A3%9F.png)
-![输入图片说明](06%E7%99%BB%E5%BD%95.png)
-![输入图片说明](09%E8%B4%AD%E7%89%A9%E8%BD%A6.png)
-![输入图片说明](10%E7%BE%8E%E9%A3%9F%E8%AE%A2%E5%8D%95.png)
-![输入图片说明](07%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83.png)
+![01首页](https://github.com/user-attachments/assets/ceb73f4b-c685-4eef-a764-eab4a37844f0)
+![02信息公告](https://github.com/user-attachments/assets/1d5976c5-6968-4d0b-9e4b-b9e6068e8e0f)
+![03留言板](https://github.com/user-attachments/assets/efbbfc4b-1a10-4c50-b5c3-cb26febca819)
+![04美食](https://github.com/user-attachments/assets/8f27ef8e-7333-47e9-9fa9-f0535a800388)
+![05商家](https://github.com/user-attachments/assets/dacc9059-8f8c-4d7a-b4e2-e71d414661c4)
+![06登录](https://github.com/user-attachments/assets/571b47fd-16a7-43c6-960b-dc4cc1ca9e44)
+![07个人中心](https://github.com/user-attachments/assets/cc4d056a-f5b3-4a37-9f5a-2d51619d8a4f)
+![08美食详情](https://github.com/user-attachments/assets/fcb91a2a-7376-4121-8ab0-83f7ccf9a345)
+![09购物车](https://github.com/user-attachments/assets/6abc94e3-3d34-45cb-a22a-57c271326444)
+![10美食订单](https://github.com/user-attachments/assets/4256c571-0b89-4bc1-8dcf-c24a063dfc25)
 
 **后台管理系统**
+![11后台管理员登录分类](https://github.com/user-attachments/assets/48271bcb-2b97-4f42-8a12-7472206746bb)
+![12管理员登录](https://github.com/user-attachments/assets/7e261217-fc5e-4b66-95a9-d52e480c7d0e)
 
-![输入图片说明](11%E5%90%8E%E5%8F%B0%E7%AE%A1%E7%90%86%E5%91%98%E7%99%BB%E5%BD%95%E5%88%86%E7%B1%BB.png)
-![输入图片说明](12%E7%AE%A1%E7%90%86%E5%91%98%E7%99%BB%E5%BD%95.png)
-
-源码获取：[Springboot美食推荐商城系统源码](https://gitee.com/ss-i-gg/Springboot-Food-Recommendation-Mall/blob/master/Springboot%E7%BE%8E%E9%A3%9F%E5%95%86%E5%9F%8E%E6%BA%90%E7%A0%81.zip)
+源码获取：[Springboot美食推荐商城系统源码]()
 
 
 
